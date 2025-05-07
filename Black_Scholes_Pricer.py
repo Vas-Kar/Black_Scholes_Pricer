@@ -32,6 +32,7 @@ with st.expander("ℹ️ Project Description", expanded=False):
     - Real-time computation of call and put prices.
     - Heatmaps showing option prices and their across varying parameters.
     - Heatmaps showing color-coded P&Ls based on user purchase price inputs and the calculated option prices.
+    - Option buttons to download the heatmap data in csv files
 """)
 
 st.markdown("""---""")
